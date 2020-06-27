@@ -1,6 +1,6 @@
 # Seattle Data Airbnb Notebook
 
-Detailed analysis of [Seattle Airbnb data](https://www.kaggle.com/airbnb/seattle), along with home price prediction using linear regression. There is also a [blog post](https://medium.com/@ahmedetcho16/from-seattle-with-airbnb-data-science-d2c6718d6776) that describes the findings of the analysis.
+Detailed analysis of [Seattle Airbnb data](https://www.kaggle.com/airbnb/seattle), along with home price prediction using linear regression. There is also a [blog post](https://medium.com/@ahmedetcho16/from-seattle-with-airbnb-data-science-766986f0f8e7) that describes the findings of the analysis.
 
 ## Table of contents
 
